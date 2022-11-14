@@ -1,6 +1,6 @@
-# xtdb-tutorial
+# xtdb-tutorial-playground
 
-A Clojure library designed to ... well, that part is up to you.
+Exploring XTDB, using official tutorial https://nexhttps://nextjournal.com/xtdb-tutorial
 
 ## Usage
 
